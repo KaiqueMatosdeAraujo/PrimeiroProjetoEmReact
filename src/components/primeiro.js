@@ -1,0 +1,1 @@
+export default () => <h2>Primeiro "Primeiro Js"</h2>
