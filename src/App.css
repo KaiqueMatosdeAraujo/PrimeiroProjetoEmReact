@@ -3,9 +3,9 @@
 }
 
 body{
-  display:inline;
-  align-content:flex-end;
-  background-color:rgb(80, 76, 76);
+  
+ 
+  background-color:rgb(230, 230, 230);
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

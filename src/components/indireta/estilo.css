@@ -1,0 +1,16 @@
+button{
+    background-color: rgb(98, 138, 224);
+    padding: 10px 20px;
+    color:white;
+    border-radius:8px;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+}
+h2{
+    outline: 2px solid rgb(90, 88, 88);
+    background-color:white;
+    color:rgb(26, 24, 24);
+    
+}
+
